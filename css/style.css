@@ -45,6 +45,11 @@ p {
 	margin: 0 0 20px 0;
 }
 
+.press img {
+  border: 5px #ccc solid;
+	padding: 1px;
+}
+
 footer p {
  text-align: right;
 }
