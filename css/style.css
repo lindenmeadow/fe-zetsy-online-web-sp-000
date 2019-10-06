@@ -29,3 +29,8 @@ h1 {
 	padding-bottom: 10px;
 	border-bottom: 1px solid #ccc;
 }
+
+header img {
+	padding: 1px;
+  border: 1px solid #ccc;
+}
