@@ -34,3 +34,8 @@ h1 {
 header img {
   border: 5px solid #aaa;
 }
+
+h2 {
+	font-size: 2em;
+	color: #bbb;
+}
