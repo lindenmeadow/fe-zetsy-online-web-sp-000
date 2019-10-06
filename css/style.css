@@ -23,5 +23,8 @@ body {
 /* Write all remaining styles here */
 h1 {
 	font-family: 'Baskerville', serif;
-	color: ;
+	color: #ccc;
+	font-size: 5em;
+	padding-bottom: 10px;
+	border-bottom: #ccc;
 }
